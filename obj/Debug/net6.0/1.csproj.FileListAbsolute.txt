@@ -1,0 +1,15 @@
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/bin/Debug/net6.0/1
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/bin/Debug/net6.0/1.deps.json
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/bin/Debug/net6.0/1.runtimeconfig.json
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/bin/Debug/net6.0/1.dll
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/bin/Debug/net6.0/1.pdb
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/obj/Debug/net6.0/1.csproj.AssemblyReference.cache
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/obj/Debug/net6.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/obj/Debug/net6.0/1.AssemblyInfoInputs.cache
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/obj/Debug/net6.0/1.AssemblyInfo.cs
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/obj/Debug/net6.0/1.csproj.CoreCompileInputs.cache
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/obj/Debug/net6.0/1.dll
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/obj/Debug/net6.0/refint/1.dll
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/obj/Debug/net6.0/1.pdb
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/obj/Debug/net6.0/1.genruntimeconfig.cache
+/Users/iliyailchishin/Desktop/GB/Q2/C#/1/obj/Debug/net6.0/ref/1.dll
