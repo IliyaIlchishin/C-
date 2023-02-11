@@ -7,6 +7,9 @@ using _1.Model.Names;
 
 namespace _1.Model.Soldiers
 {
+
+
+//все функции как у мечника, но применяем интерфейс Shield 
     public class Knight: Soldier, I_Shield
     {
         

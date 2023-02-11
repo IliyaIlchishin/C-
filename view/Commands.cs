@@ -10,6 +10,8 @@ namespace _1.view
 {
     public class Commands
     {
+
+        // Создаем список с рандомными солдатами 
         public static List <Soldier> CreateArmy (){
             List <Soldier> army = new List<Soldier>();
             
@@ -32,6 +34,8 @@ namespace _1.view
 
             return army;
         }
+
+        //печатаем общую инфу и вызывает метод PrintInfo из класса Soldier для выведения информации об экземлярах класса Soldier
         public static void ArmyInfo(List <Soldier> army){
             int size = army.Count-1;
             System.Console.WriteLine($"Размер армии - {size}\n");

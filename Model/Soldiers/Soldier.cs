@@ -6,6 +6,9 @@ using _1.Model.Names;
 
 namespace _1.Model.Soldiers
 {
+
+
+    // Абстрактный класс солдат с основным функционалом 
     public abstract class Soldier
     {
         private int MaximalHealth = 0;
